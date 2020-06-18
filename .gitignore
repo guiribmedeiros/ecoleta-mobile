@@ -1,0 +1,6 @@
+node_modules/**/*
+.expo/*
+.env
+
+# macOS
+.DS_Store
