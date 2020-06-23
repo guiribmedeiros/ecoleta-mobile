@@ -48,4 +48,4 @@ expot start
 ```
 
 That’s it! :rocket:  
-If you have questions about Ecoleta Mobile, you can ask me on [GitHub Issues](https://github.com/guiribmedeiros/ecoleta-mobile/issues).
+If you have questions about Ecoleta Mobile, you can ask on [GitHub Issues](https://github.com/guiribmedeiros/ecoleta-mobile/issues).
