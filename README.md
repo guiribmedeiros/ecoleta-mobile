@@ -15,7 +15,7 @@ Ecoleta is a marketplace platform that helps people find collection points for r
 - Starter and Booster designs are available at [Figma](https://www.figma.com/file/RdlEdkUng704Q0OyIHjSGi/Ecoleta).
 
 Ecoleta Mobile is an open-sourced mobile app. It is written in [TypeScript](http://www.typescriptlang.org) and
-uses [React Native](https://reactnative.dev/) and [Expo](https://expo.io/).
+uses [React Native](https://reactnative.dev/) along with [Expo](https://expo.io/).
 
 ## Getting Started
 
